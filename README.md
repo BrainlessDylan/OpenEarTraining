@@ -1,2 +1,2 @@
 # OpenEarTraining
-a free software for training musical perception writen in c++ 
+idk man, screw having a description for now
